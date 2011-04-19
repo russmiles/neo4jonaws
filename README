@@ -1,0 +1,15 @@
+NEO4JAWS (Pronounced Neo Four Jaws)
+-----------------------------------
+
+Gradle and Chef recipes for bootstrapping a Neo4J instance on Amazon Web Services
+
+
+With Thanks
+-----------
+
+Much of this code was inspired by the sample build by Jeppe Nejsum Madsen. 
+
+The original article series and github source are available here:  
+
+* https://github.com/jeppenejsum/helloworld
+* http://jeppenejsum.wordpress.com/2009/05/03/ec2-continuous-deployment-hello-world/ 
